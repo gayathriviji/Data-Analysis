@@ -6,13 +6,7 @@ To build an interactive sales dashboard for **Blinkit – India’s Last Minute 
 ---
 
 ## 📁 Dataset Used
-- **Name**: Blinkit Sales Data
-- **Source**: Provided for internal/academic use
-- **Format**: Excel/CSV
-- **Contains**:
-  - Outlet Type, Location, Size, Tier
-  - Item Type, Fat Content, Sales
-  - Rating, Visibility, Year of Establishment
+- <a href="https://github.com/gayathriviji/Data-Analysis/blob/main/BlinkIT%20Grocery%20Data.xlsx"Dataset</a>
 
 ---
 
@@ -71,7 +65,7 @@ To build an interactive sales dashboard for **Blinkit – India’s Last Minute 
 ---
 
 ## 📷 Dashboard Preview
-![Blinkit Dashboard]("C:\Users\HP\Desktop\Blinkit DA project\Blinkit project.pbix") *(Add actual path or link)*
+-<a href="https://github.com/gayathriviji/Data-Analysis/blob/main/blinkit%20project%20DB.png"Dashboard</a>
 
 ---
 
